@@ -1,0 +1,5 @@
+D:\Google Диск\Программы\Сброд\MonopolyClasses\MonopolyClasses\bin\Debug\MonopolyClasses.dll
+D:\Google Диск\Программы\Сброд\MonopolyClasses\MonopolyClasses\bin\Debug\MonopolyClasses.pdb
+D:\Google Диск\Программы\Сброд\MonopolyClasses\MonopolyClasses\obj\Debug\MonopolyClasses.csprojResolveAssemblyReference.cache
+D:\Google Диск\Программы\Сброд\MonopolyClasses\MonopolyClasses\obj\Debug\MonopolyClasses.dll
+D:\Google Диск\Программы\Сброд\MonopolyClasses\MonopolyClasses\obj\Debug\MonopolyClasses.pdb
